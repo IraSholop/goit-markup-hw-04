@@ -202,6 +202,12 @@ img {
   text-align: center;
   cursor: pointer;
 }
+.hero-btn:hover,
+.hero-btn:focus{
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  background-color: #188CE8;
+  
+}
 /* Features section  */
 .features-list {
   display: flex;
